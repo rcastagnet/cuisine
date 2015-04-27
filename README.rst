@@ -9,7 +9,7 @@ Bien entendu, il n'y a pas de mise à jour régulière : je pense plus de temps 
 pourquoi git ?
 ==============
 
-La première fois ou j'ai voulu commencer à stocker mes recettes, c'était sous forme de manpages en local sur ma machine. C'était un peu trop fermé. J'en ai ensuite fais une version html. Internet étant arrivé entre temps, ça rendait l'accès plus simple mais la mise à jour n'étais pas conviviale. Je suis ensuite passé à un CMS. Un peu lourd à gérer...
+La première fois ou j'ai voulu commencer à stocker mes recettes, c'était sous forme de manpages en local sur ma machine. C'était un peu trop fermé. J'en ai ensuite fais une version html. Internet étant arrivé entre temps, ça rendait l'accès plus simple mais la mise à jour n'était pas conviviale. Je suis ensuite passé à un CMS. Un peu lourd à gérer...
 
 Git va me permettre de rendre les recettes toujours disponibles, de permettre à des gens de contribuer, de suivre les modifs et de faire mes modifications avec des outils que j'utilise quotidiennement (git, vi...).
 
