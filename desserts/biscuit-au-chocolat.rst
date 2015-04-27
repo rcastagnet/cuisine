@@ -22,7 +22,6 @@ Recette
 - si au chocolat, faire fondre le chocolat avec un peu d'eau dans une casserole
 - ajouter le chocolat ou la poudre et mélanger
 - mettre dans le moule et le moule dans le four thermostat 180 pendant 30 minutes (voir détails en-dessous)
-- faire refroidir (passage au frigo)
 
 En fin de cuisson, on voit un petit bouillonnement sur les bords du gâteau. La cuisson idéale est d'arrêter lorsque ce bouillonnement vient juste de s'arrêté. Le gâteau est ainsi cuit à l’intérieur, mais reste moelleux. En fonction de mes moules, j'arrive à cette étapes avec une durée d'environ :
 
@@ -36,4 +35,5 @@ Changements possibles :
 - remplacer le chocolat par un ou deux bouchons d'amaretto et un peu de poudre d'amande.
 - remplacer le chocolat par de la poudre de noisette
 
-On obtient ainsi un marbré en faisant une pâte noisette et une pâte chocolat. Verser la pâte noisette au fond du moule et la pâte chocolat sur le dessus. Le chocolat étant un peu plus lourd, il tombera pendant la cuisson.
+On obtient ainsi un marbré en faisant une pâte noisette ou amande et une pâte chocolat. Verser la pâte blanche (noisette ou amande) au fond du moule et la pâte chocolat sur le dessus. Le chocolat étant un peu plus lourd, il tombera pendant la cuisson.
+
