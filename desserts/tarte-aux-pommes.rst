@@ -7,10 +7,11 @@ Ingrédients
  
 garniture
 
-- 20 cl de crème semi épaisse
+- 100g de crème semi épaisse
 - 3 œufs
-- sucre vanillé
-- 30g de sucre
+- 1 cuillère à café de poudre de vanillé
+- 125g de sucre
+- 175g de lait
 
  
 pâte brisée
@@ -22,11 +23,11 @@ pâte brisée
 - une pincée de sucre
 - un peu d'eau
 
- 
+- 5 grosses pommes parfumées (pink lady...)
 
 Recette
 =======
- 
+
 pâte brisée
 
 - mélanger le beurre en petits morceaux et la farine dans le robot
@@ -38,15 +39,12 @@ pâte brisée
 - étaler au rouleau et disposer dans un moule (beurré)
 - disposer les pommes pelée, évidée et coupées en fines tranches
 
- 
+
 garniture
 
-- mélanger le sucre, le sucre vanillé et les oeufs au fouet
--  ajouter la creme et continuer a melanger
--  le mélange doit être homogène
+- Dans un bol, fouetter la crème et les oeufs.
+- Ajouter le sucre et la vanille. Fouetter de nouveau.
+- Ajouter le lait et foueter encore jusqu'à obtention d'un mélange homogène.
 - verser sur les pommes et la pâte dans le moule
 
 Passer au four préchauffer à 180°. La crème pâte doit dorer ainsi que la crème qui ne doit plus être liquide.
- 
-
-
