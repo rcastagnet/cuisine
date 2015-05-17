@@ -22,7 +22,7 @@ Ingrédients
 Recette
 =======
 
-- Débiter la viande en morceaux suffisamment gros. Ne pas trop dégraisser : pas de gras = pas de collagène = pas de sauce)
+- Débiter la viande en morceaux suffisamment gros. Ne pas trop dégraisser : pas de gras = pas de collagène = pas de sauce
 - Découper en gros morceaux les carottes, poireaux et oignons . Ficeler les poireaux. Planter les clous de girofle dans l’oignon.
 - Mettre la viande et les légumes dans une grand faitout.
 - Recouvrir d'eau et mettre sur le feu pour porter à ébullition.
