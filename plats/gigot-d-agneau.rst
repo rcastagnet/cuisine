@@ -17,11 +17,21 @@ Recette
 Les règles d'or avec le gigot (et globalement avec les viandes à rôtir)
 -----------------------------------------------------------------------
 
+- Sortir la viande une heure avant le début de cuisson pour une montée en température progressive.
 - Ne pas le piquer. Si vous voulez mettre de l'ail, mettez le autour, il cuira dans le jus. Piquer la viande fera sortir le jus de viande et rendra la viande plus sèche. Pour retourner la viande, prendre des spatules, mais pas de fourchette. Pour verifier la cuisson, ne pas piquer, cuire avec une sonde, ou se fier au temps de cuisson.
 - Bien le badigeonner d'huile d'olive, de pépin de raisin ou de beurre fondu.
 - Retourner à mi-cuisson, et arroser au passage.
 - Une fois le gigot cuit, le laisser reposer sur la planche à découper quelques minutes avant de le découper. La viande en sera plus moelleuse. Le couvrir d'un papier d'aluminium pour ne pas trop le refroidir.
 - Ne pas le piquer. Je répète, pour être sûr.
+
+Préparation
+-----------
+
+- Mettre le gigot dans son plat, le badigeonner d'huile.
+- Saupoudrer de thym.
+- Découper aïl, oignon et echalotte et les disposer autour.
+- mettre un petit fond d'eau
+- enfourner à 180°c.
 
 Temperature de cuisson
 ----------------------
