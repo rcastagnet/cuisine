@@ -5,14 +5,14 @@ gaufres liégeoises
 ingrédients
 ===========
 
-125g de beurre fondu
-130g de sucre perlé ou à chouquettes
-1 sachet de sucre vanillé
-10 cl de lait + 1 sucre
-21g de levure fraîche du boulanger
-2 pincées de sel
-2 œufs
-250g de farine
+- 125g de beurre fondu
+- 130g de sucre perlé ou à chouquettes
+- 1 sachet de sucre vanillé
+- 10 cl de lait + 1 sucre
+- 21g de levure fraîche du boulanger
+- 2 pincées de sel
+- 2 œufs
+- 250g de farine
 
 recette
 =======
