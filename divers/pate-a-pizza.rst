@@ -7,12 +7,12 @@ Ingrédients
 
 (pour deux pizzas de taille moyenne)
 
-– 400 g de farine
-– 25 cl d’eau tiède ou froide en fonction
-– 5 g de levure de boulanger sèche (1 càc) ou 8 g de levure fraîche
-– 8/10 g de sel fin (2 càc)
-– une pincée de sucre (en option)
-– 2 càs d’huile d’olive vierge extra (en option)
+- 400 g de farine
+- 25 cl d’eau tiède ou froide en fonction
+- 5 g de levure de boulanger sèche (1 càc) ou 8 g de levure fraîche
+- 8/10 g de sel fin (2 càc)
+- une pincée de sucre (en option)
+- 2 càs d’huile d’olive vierge extra (en option)
 
 Recette
 =======
