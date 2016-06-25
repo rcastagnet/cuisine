@@ -5,7 +5,7 @@ pate a pizza
 Ingrédients
 ===========
 
-(pour deux pizzas de taille moyenne)
+(pour deux pizzas)
 
 - 400 g de farine
 - 25 cl d’eau tiède ou froide en fonction
