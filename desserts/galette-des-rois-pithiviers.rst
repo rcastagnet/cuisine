@@ -11,10 +11,8 @@ Ingrédients
 - 100g de poudre d'amande
 - amaretto (ou rhum selon le gout)
 - 2 pâtes feuilletées
+- 1 fève
 
- 
-
- 
 Recette
 =======
 
@@ -23,11 +21,9 @@ Recette
 - ajouter deux œufs et mélanger jusqu'à homogénéiser
 - rajouter de l'amaretto à convenance (deux à quatre bouchons devraient faire l'affaire... enfin ça depend de la taille du bouchon)
 - mélanger et ajouter la poudre d'amande
-
- 
-
 - étaler la première pâte
 - y étendre le mélange sans s'approcher à plus de deux centimètres du bord
+- ajouter la fève
 - déposer la seconde pâte par dessus
 - écraser les bords ensemble pour les coller et écraser les bords avec le bout d'un couteau (sur un demi centimètre. Le fait de couper les deux pâtes d'un coup va les mélanger et les souder
 - on peut ensuite réaliser des dessins sur la pâte avec un couteau
@@ -37,4 +33,7 @@ Recette
 10 minutes dans un four préchauffé à 210°c, puis encore 20 minutes en ayant réduit à 170°c.
 
 
+Informations complémentaires
+============================
 
+Pour doubler les doses, il faut utiliser un support (type assiette) légèrement incurvé sur les bords pour éviter que le mélange s'étale et empèche que les deux pâtes se soudent.
